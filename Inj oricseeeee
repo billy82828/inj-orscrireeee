@@ -38,7 +38,7 @@ getgenv().introfx = {
 
 local whitelist = {
     "lulaslollipop",
-    4256434702,
+    1626656420,
 }
 
 if not table.find(whitelist, userid) and not table.find(whitelist, displayname) and not table.find(whitelist, playername) then
